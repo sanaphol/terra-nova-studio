@@ -8,6 +8,4 @@ Z
 ## Technical Director
 Nova
 
----
-
-This repository contains the source code, world bible, concept art and documentation for Terra Nova.
+Welcome to the official repository for Terra Nova.
